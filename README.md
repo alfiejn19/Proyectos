@@ -2,6 +2,6 @@
 
 Este repositorio es para tener los proyectos que voy generando por mi cuenta.
 
-```esto es cool```
+```Aquí empieza... ```
 
-Quiero ver como se modifica esta y hacer etiquetas.
+El primer proyecto es el de "Amigo Secreto"
